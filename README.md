@@ -1,4 +1,4 @@
-# Loja LoucosStore
+# Loja Loucos Store
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Gab-engsoftware/loucos-store/blob/main/LICENSE) 
 
 # Sobre o projeto

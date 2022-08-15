@@ -18,6 +18,7 @@ A aplicação consiste em um e-comerce de protuos de computador, onde é possive
 
 # Tecnologias utilizadas
 ## Front end
+-HTML
 - CSS
 - TypeScript
 - Angular

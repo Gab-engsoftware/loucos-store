@@ -25,8 +25,8 @@ A aplicação consiste em um e-comerce de protuos de computador, onde é possive
 
 # Como contribuir
 ## Open source
-- Sugestão de melhorias
-- Implementação de melhorias
+- Sugestões de melhorias
+- Implementações de melhorias
 
 # Autor
 

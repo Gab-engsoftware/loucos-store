@@ -9,8 +9,6 @@ LoucosStore é uma aplicação full stack web construída durante a trilha Java 
 
 A aplicação consiste em um e-comerce de protuos de computador, onde é possivel utilizar a barra de pesquisa para encontrar o produto, adcionar e romover produtos do carrinho e entrar em contato através do formulário de contatos no menu da página.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
 ## Layout web
 ![Header LoucosStore](https://user-images.githubusercontent.com/89217325/184663817-251cd675-4b6a-413f-85fd-6195a8ed7bb4.jpeg)

@@ -1,27 +1,35 @@
-# LojaLoucos
+# Loja LoucosStore
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Gab-engsoftware/loucos-store/blob/main/LICENSE) 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+# Sobre o projeto
 
-## Development server
+https://gab-engsoftware.github.io/loucos-store/produtos
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+LoucosStore é uma aplicação full stack web construída durante a trilha Java no modulo de Angular, esta trilha é organizada pelo programa Start Capgemini.
 
-## Code scaffolding
+A aplicação consiste em um e-comerce de protuos de computador, onde é possivel utilizar a barra de pesquisa para encontrar o produto, adcionar e romover produtos do carrinho e entrar em contato através do formulário de contatos no menu da página.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Layout mobile
+![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
-## Build
+## Layout web
+![Header LoucosStore](https://user-images.githubusercontent.com/89217325/184663817-251cd675-4b6a-413f-85fd-6195a8ed7bb4.jpeg)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+![Footer LoucosStore](https://user-images.githubusercontent.com/89217325/184663889-40d924d6-d296-4814-83a7-2d39ca94513f.jpeg)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Tecnologias utilizadas
+## Front end
+- CSS
+- TypeScript
+- Angular
 
-## Running end-to-end tests
+# Como contribuir
+## Open source
+- Sugestão de melhorias
+- Implementação de melhorias
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+# Autor
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Gabriel Gomes Reis
+www.linkedin.com/in/gabriel-reis-4b643521a/

@@ -3,11 +3,11 @@
 
 # Sobre o projeto
 
-https://gab-engsoftware.github.io/loucos-store/produtos
+https://gab-engsoftware.github.io/loucos-store/
 
 LoucosStore é uma aplicação full stack web construída durante a trilha Java no modulo de Angular, esta trilha é organizada pelo programa Start Capgemini.
 
-A aplicação consiste em um e-comerce de protuos de computador, onde é possivel utilizar a barra de pesquisa para encontrar o produto, adcionar e romover produtos do carrinho e entrar em contato através do formulário de contatos no menu da página.
+A aplicação consiste em um e-comerce de protuos de computador, onde é possivel utilizar a barra de pesquisa para encontrar o produto, adicionar e romover produtos do carrinho. Na aba contato é possivel simular o envio de mensagens com validações através do formulário de contatos no menu da página.
 
 
 ## Layout web
